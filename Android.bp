@@ -86,8 +86,6 @@ cc_defaults {
     sanitize: {
         recover: ["shift-exponent"],
     },
-
-    quicksilver: true,
 }
 
 cc_defaults {
